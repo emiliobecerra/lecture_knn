@@ -1,0 +1,10 @@
+Matrix structure
+trials = []
+[ (0.52, 1, "uniform"),
+  (0.49, 2, "uniform"),
+  (.92, 1, "distance"), 
+  .
+  .
+  .
+
+		]
